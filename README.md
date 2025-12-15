@@ -1,11 +1,11 @@
 # Azure Orphaned Resources v3.0
 
-The _'Azure Orphaned Resources Workbook'_ centralize orphaned resources in Azure environments.
+The _'Azure Orphaned Resources Workbook'_ centralizes orphaned resources in Azure environments.
 
-The purpose of this workbook is to provide an overview of your orphaned resources, enabling you to enhance eficiency by:
+The purpose of this workbook is to provide an overview of your orphaned resources, enabling you to enhance efficiency by:
 - Saving money
 - Prevent misconfiguration
-- Simplify operational
+- Simplify operations
 
 ![image](https://github.com/user-attachments/assets/c86a1bf5-bc4b-4475-ab09-59b164f5eecb)
 
@@ -69,12 +69,11 @@ To delete resource(s), select the resource(s) from the table _(1)_ and click the
 
 ![image](https://github.com/user-attachments/assets/2ac4ea63-f13b-43eb-8828-183bf630658a)
 
-
-- A Context pane will open with the resource(s) details to approve the deletion.
+A Context pane will open with the resource(s) details to approve the deletion.
 
 ![image](https://github.com/user-attachments/assets/64e7e3bc-86e8-4577-8ad7-9060ae5d4cd6)
 
-> In the _View request details_ you can see the _Delete_ ARM Actions to delete the selected resource(s).
+In the _View request details_ you can see the _Delete_ ARM Actions to delete the selected resource(s).
 
 ![image](https://github.com/user-attachments/assets/133127ed-a6c6-4f10-b78f-66888c9d18f2)
 
@@ -89,7 +88,7 @@ To delete resource(s), select the resource(s) from the table _(1)_ and click the
 ## How to use it?
 Importing this Workbook to your Azure environment is quite simple.
 
-Follow this steps to use the Workbook:
+Follow these steps to use the Workbook:
 
 - Login to [Azure Portal](https://portal.azure.com/) <img src="https://user-images.githubusercontent.com/69309933/172941966-9e030031-6ccb-4ebf-bd2b-04bb623e5ff7.png" width="20" height="20">
 - Go to _'Azure Workbooks'_
@@ -110,7 +109,7 @@ Follow this steps to use the Workbook:
 
 - Select the _'Gallery Template'_ (step 1)
 - Replace the JSON code with this JSON code [orphaned resources JSON](https://raw.githubusercontent.com/dolevshor/azure-orphan-resources/main/Workbook/Azure%20Orphaned%20Resources%20v3.0.workbook) (step 2)
-  - We use the _Gallery Templaty type_ (step 1), so we need to use the _'Azure Orphaned Resources v3.0.workbook'_ and not the _'Azure Orphaned Resources v3.0.json'_.
+  - We use the _Gallery Template type_ (step 1), so we need to use the _'Azure Orphaned Resources v3.0.workbook'_ and not the _'Azure Orphaned Resources v3.0.json'_.
 - Click _'Apply'_ (step 3)
 
 <img src="https://user-images.githubusercontent.com/69309933/172807762-17aec6f9-4a81-4d5b-9017-673a0ab6b26e.png" width="700"> 
