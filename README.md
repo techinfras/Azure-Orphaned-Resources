@@ -1,4 +1,4 @@
-# Azure Orphaned Resources v3.0
+# Azure Orphaned Resources 
 
 The _'Azure Orphaned Resources Workbook'_ centralizes orphaned resources in Azure environments.
 
